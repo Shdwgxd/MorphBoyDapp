@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf35c5662436f498a9510774bf2d55499d85c5f41",
+  "SCAN_LINK": "https://polygonscan.com/token/0xf35c5662436f498a9510774bf2d55499d85c5f41",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Morph Boy",
+  "SYMBOL": "MOPRH",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/morph-boy",
+  "SHOW_BACKGROUND": true
+}
